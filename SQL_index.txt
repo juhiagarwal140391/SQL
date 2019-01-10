@@ -1,0 +1,51 @@
+Day 1
+Concepts in Database technologies
+What is a RDBMS (Relational Database Management System)?
+Why RDBMS?
+Creating databases, tables
+Altering tables, datatypes, constraints
+Inserting, updating, deleting data in tables using DML (Data Manipulation Language)
+String Concatenation, WHERE clause, conditions for comparison
+Entity Relationship diagrams (Table design) and constraints
+Various types of Keys: Candidate, Primary, Alternate, Foreign, Composite
+Creating table using Primary key
+Day 2
+SQL string functions
+SQL numeric functions
+Logical operators, dealing with IS NULL and IS NOT NULL
+Column aliases
+DISTINCT
+ORDER BY
+Day 3
+BETWEEN operator
+AND
+IN and NOT IN operators
+LIKE operator data
+Grouping and Summarizing
+Aggregate functions, GROUP BY, HAVING
+Subqueries
+Derived table
+Day 4
+Correlated, EXISTS operator
+Writing a Subquery as an expression
+Dealing with multiple return values, ANY / ALL
+Creating a view, use of views
+Listing a view definition
+Indexes
+Cartesian products, equi / inner join
+Outer joins: Left, right, full self join, non equi join
+Prerequisite
+
+None
+
+Learning Outcomes
+
+By the end of this course, learners will be able to perform the following:
+
+Write complex queries with SQL Server
+Manipulate data with correlated and non-correlated subqueries
+Learning Plan
+
+Enrol for an upcoming SQL 101 Classroom session
+Complete the assignments on SQL ZOO within 48 hours of Day 5
+Appear for Final Test and Viva
